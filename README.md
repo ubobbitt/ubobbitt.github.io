@@ -1,5 +1,17 @@
-# Ursula Bobbitt
-# Kennesaw State University
-# IT 4203 Advanced Web Development
 
-Hello everyone! My name is Ursula Bobbitt and I am a senior at Kennesaw State University pursuing a Bachelor of Science in Information Technology with a concentration in Enterprise Systems. I started out as a student at Southern Polytechnic State University and I am still working on the same degree. I anticipate graduating summer 2019. I am taking IT 4203 Advanced Web Development as one of my program requirements and I hope to gain a lot of knowledge that I can hopefully use to obtain a better job.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Home Page for Ursula Bobbitt</h1>
+<h2>IT 4203</h2>
+<p>This is the home page for Ursula Bobbitt.</p>
+<p>I am taking this course as a requirement for my degree program, but
+I hope to gain more from this experience.  I expect to gain a decent,
+basic working knowledge of web development.  I expect to learn 
+fundamentals that I can continue to build upon long after I complete
+this course.  I also expect to develop an appreciation for the coding
+that is involved in  displaying the web pages that I like to visit.
+I am looking forward to learning a lot from this class this semester.
+I think it will be fun.</p>
+</body>
+</html>
