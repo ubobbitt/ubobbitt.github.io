@@ -1,11 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" type="text/css" href="l2p4.css" />
-<title>Index Page for Ursula Bobbitt</title>
-<meta charset="UTF-8" />
-</head>
 <body>
 <h1>Home Page for Ursula Bobbitt</h1>
 <h2>IT 4203</h2>
