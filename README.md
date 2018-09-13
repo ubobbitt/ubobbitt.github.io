@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Home Page for Ursula Bobbitt</h1>
